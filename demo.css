@@ -1,0 +1,49 @@
+* {
+	font-family: 'Roboto', sans-serif;
+}
+html, body {
+	font-size: 16px;
+}
+
+section#demo {
+	/* background: #fbfbfb; */
+	background-image: url("tech.jpg");
+	background-position: center;
+	background-size: cover;
+	background-position: center;
+	opacity: 1.5;
+    position: relative;
+    padding: 0;
+    min-height: 95vh;
+    transition: height 9999s;
+}
+.vertical-align {
+	position: absolute;
+	top: 45%;
+	/* height: 100%; */
+	/* bottom: 45%; */
+	transform: translateY(-50%);
+	left: 0;
+	width: 100%;
+}
+.card {
+	background: #163a47;
+    box-shadow: 13px 13px 28px 2px rgba(0, 0, 0, 0.035);
+    padding: 5px;
+}
+h1{
+	background-image: url("tech.jpg");
+	text-align: center;
+	font-family: cursive;
+	font-size: x-large;
+	color: rgb(126, 200, 222);
+    /* background-color: #173742; */
+    /* color: #f6efef; */
+    /* display: block; */
+    font-size: 4em;
+    /* border: #cdf0f8 solid 4px ; */
+    margin: auto;
+    padding: auto;
+      
+
+} 
